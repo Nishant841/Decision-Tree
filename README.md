@@ -1,2 +1,2 @@
 # Decision-Tree
-Task #6 Decision Tree prediction algorithm
+Task  Decision Tree prediction algorithm
